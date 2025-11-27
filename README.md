@@ -1,10 +1,3 @@
-That's a great script for a **Secure Password Generator**\! I can certainly create a `README.md` and a `requirements.txt` file for your GitHub repository.
-
-Here are the files:
-
-## 📜 `README.md`
-
-````markdown
 # SecurePass Generator
 
 A simple yet robust cross-platform **Random Password Generator** built using **Python** and the **Tkinter** GUI library. This application allows users to generate strong, customizable passwords based on desired length and character sets, and provides a strength assessment based on **entropy**.
